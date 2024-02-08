@@ -29,7 +29,7 @@
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse;
-    color:bisque;
+    color:Maroon;
 
 }
 th{
@@ -45,5 +45,5 @@ td{
     padding: 4px;
 }
 tr:nth-child(odd){
-    background-color: aquamarine;
+    background-color:bisque;
 }

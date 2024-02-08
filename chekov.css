@@ -51,7 +51,7 @@ tr:nth-child(odd){
     text-shadow: 1px 1px 5px red;
   }
   .bottom-navbar {
-    background-color: #248f46;
+    background-color:maroon;
     overflow: hidden;
     position: fixed;
     width: 100%;
